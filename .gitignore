@@ -1,0 +1,15 @@
+# Database credentials
+src/main/resources/db.properties
+
+# Compiled Java files
+target/
+*.class
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
